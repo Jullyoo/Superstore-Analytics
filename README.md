@@ -188,7 +188,7 @@ Isso permitiu observar não apenas o resultado de cada período, mas também com
 
 A primeira versão do projeto foi desenvolvida no Excel 2016, utilizando recursos nativos da ferramenta.
 
-![Dashboard](images/dashboard.png)
+![Dashboard](images/dashboard_1.png)
 
 ---
 
